@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--to file web -->
+    <string name="name_space">http://tempuri.org/</string>
+    <string name="method_name">StuLogin</string>
+    <string name="version">1.0</string>
+    <string name="URL">http://jw.tjrac.edu.cn/app/app.asmx</string>
+
+    <!--to class WebSever rLooking argument-->
+    <!--登陆信息参数-->
+    <string name="input_xh">xh</string>
+    <string name="input_pwd">pwd</string>
+    <string name="input_logincode">logincode</string>
+    <string name="input_option">option</string>
+    <string name="input_xq">xq</string>
+
+    <!--登陆返回参数-->
+    <string name="return_xh">xh</string>
+    <string name="return_xm">xm</string>
+    <string name="return_bj">bj</string>
+    <string name="return_nj">nj</string>
+    <string name="return_zy">zy</string>
+    <string name="return_depcode">depcode</string>
+
+    <!--已知基本参数-->
+    <string name="versions">1.0</string>
+    <integer name="grad">1</integer>
+    <integer name="schedule">2</integer>
+    <integer name="examination">3</integer>
+    <integer name="attendance">4</integer>
+</resources>
